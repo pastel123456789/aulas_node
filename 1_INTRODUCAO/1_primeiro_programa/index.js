@@ -1,0 +1,1 @@
+console.log("se caso persistirem os sintomas o médico deverá ser consultado")
